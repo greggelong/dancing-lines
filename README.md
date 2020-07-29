@@ -1,5 +1,5 @@
 # dancing-lines
-Some visulazations of dancing lines with sin() cos() and Perlin noise, inspired by the work of John Whitney
+Some visualizations of dancing lines with sin() cos() and Perlin noise, inspired by the work of John Whitney
 
 These dancing lines are made by plotting points in sine and cosine space  (t) around a unit circle.  The frequency and amplitude of are being modified, like this sin(t*frequency)*amplitude). Changes to the amplitude change the length of the line in the canvas. Changes in frequency can make the lines more or less vertical. Each group of colored lines are incremented differently (and some randomly) so they are out of phase. If they were in phase they would sit on top of each other and you could only see the last set drawn. 12 year old me would say it looks a lot like the 80s arcade game QIX. But now I see these type of visualizations were pioneered in the 60s by John Whitney. #creativecoding #p5js
 
