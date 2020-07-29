@@ -5,4 +5,6 @@ These dancing lines are made by plotting points in sine and cosine space  (t) ar
 
 ![dancinglines](dancinglines1.png)
 
+[see it live](https://editor.p5js.org/greggelong/present/OCijfputu)
+
 lead by sine and cosine along the unit circle, first with a random amplitude and then a smooth Perlin noise amplitude. They have a mid 20th century vibe. And resemble a poor version of John Whitney's groundbreaking work. But this little study helps me improve my trigonometric fluency and visualizing a noise space. Also it's just fun to code and play with the parameters.
