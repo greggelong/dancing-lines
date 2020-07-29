@@ -15,3 +15,6 @@ lead by sine and cosine along the unit circle, first with a random amplitude and
 
 ![dancingLinesLandscape](dancingLinesLandscape.png)
 
+this #p5js sketch is a combination of the last few. It is also an exploration of Perlin noise space and Sine and cosine space. And it is fitting that these create landscapes, because we can conceptualize noise values and trig values as a change in y over some time x, think of a sine wave. The mountains have been made that way but instead of a regular sine wave we get smooth random values up and down. The dancing lines are a combination of trig functions and noise. the lines are drawn from sine and cosine points around the unit circle. In this sketch the origin for the dancing lines is not tied to the center of the screen but moves in a random walk with smooth noise values over the canvas. I think this give the impression of some flying creature over an alien landscape. #creativecoding #generativeart #alienlandscape
+
+[see it live at](https://editor.p5js.org/greggelong/present/snkn8QBzB)
