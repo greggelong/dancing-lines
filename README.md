@@ -30,7 +30,7 @@ Dancing lines with sliders to change the parameters, such as, number of lines, c
 **********************
 ![whitneyClassArray25](whitneyClassArray25.png)
 
-Made a the dancing lines into a class in p5.js and processing3 (java).  The class is called Whitney() and you can add as many to an array as you like untill you crash the browser or computer. 
+Made the dancing lines into a class in p5.js and processing3 (java).  The class is called Whitney() and you can add as many to an array as you like untill you crash the browser or computer. 
 
 [see it live at](https://editor.p5js.org/greggelong/present/AS6tC3Uoz)
 
