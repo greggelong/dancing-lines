@@ -37,9 +37,10 @@ Made the dancing lines into a class in p5.js and processing3 (java).  The class 
 
 
 **********************
-![whitneyClassArrayBkgrnd](whitneyClassArrayBkrnd.png)
+![whitneyClassArrayBkgnrd](whitneyClassArrayBkgrnd.png)
 
 Here a version with the canvas centered with CSS. And the canvas background color is HSB
 
 [see it live at](https://editor.p5js.org/greggelong/present/Ppd9281I6)
+
 [home](https://greggelong.github.io/)
