@@ -41,6 +41,6 @@ Made the dancing lines into a class in p5.js and processing3 (java).  The class 
 
 Here a version with the canvas centered with CSS. And the canvas background color is HSB
 
-[see it live at](https://editor.p5js.org/greggelong/present/Ppd9281I6)
+[see it live at](https://editor.p5js.org/greggelong/present/Ppd9281I6 target="_blank")
 
 [home](https://greggelong.github.io/)
