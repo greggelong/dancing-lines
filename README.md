@@ -17,7 +17,7 @@ lead by sine and cosine along the unit circle, first with a random amplitude and
 
 this #p5js sketch is a combination of the last few. It is also an exploration of Perlin noise space and Sine and cosine space. And it is fitting that these create landscapes, because we can conceptualize noise values and trig values as a change in y over some time x, think of a sine wave. The mountains have been made that way but instead of a regular sine wave we get smooth random values up and down. The dancing lines are a combination of trig functions and noise. the lines are drawn from sine and cosine points around the unit circle. In this sketch the origin for the dancing lines is not tied to the center of the screen but moves in a random walk with smooth noise values over the canvas. I think this give the impression of some flying creature over an alien landscape. #creativecoding #generativeart #alienlandscape
 
-[see it live at](https://editor.p5js.org/greggelong/present/snkn8QBzB)
+[see it live at](https://greggelong.github.io/dancing-lines/dancing-lines-landscape/)
 
 ******************
 
@@ -25,14 +25,14 @@ this #p5js sketch is a combination of the last few. It is also an exploration of
 
 Dancing lines with sliders to change the parameters, such as, number of lines, cosine and sine frequency for points x, y and x1,y1. The origin is a random walk of Perlin noise values. And the amplitude is also Perlin noise. It really gives the impression of 3d but is entirely on 2d canvas. 
 
-[interact with it live](https://editor.p5js.org/greggelong/present/HqR86nvlg)
+[interact with it live](https://greggelong.github.io/dancing-lines/dancing-lines-slider)
 
 **********************
 ![whitneyClassArray25](whitneyClassArray25.png)
 
 Made the dancing lines into a class in p5.js and processing3 (java).  The class is called Whitney() and you can add as many to an array as you like untill you crash the browser or computer. 
 
-[see it live at](https://editor.p5js.org/greggelong/present/AS6tC3Uoz)
+[see it live at](https://greggelong.github.io/dancing-lines/whitneyClassDancingLines/)
 
 
 
@@ -43,6 +43,6 @@ Here a version with the canvas centered with CSS. And the canvas background colo
 
 <!-- [see it live at](https://editor.p5js.org/greggelong/present/Ppd9281I6) -->
 
-<a href="https://editor.p5js.org/greggelong/present/Ppd9281I6" target="_blank">see it live at</a>
+<a href="https://greggelong.github.io/dancing-lines/whitneyClassBkgrndCSS" target="_blank">see it live at</a>
 
 [home](https://greggelong.github.io/)
