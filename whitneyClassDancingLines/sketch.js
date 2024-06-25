@@ -4,6 +4,7 @@ let myWhit = [];
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
+  pixelDensity(1);
   angleMode(DEGREES);
   
   for (let i =0;i<10;i++){
