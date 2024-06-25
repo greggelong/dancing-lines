@@ -12,6 +12,7 @@ function setup() {
     
   }
   background(0);
+  pixelDensity(1);
   colorMode(HSB);
   angleMode(DEGREES);
   
