@@ -25,6 +25,7 @@ let t2 =0;// controls yellow
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  pixelDensity(1);
   background(0);
   angleMode(DEGREES);
 }
