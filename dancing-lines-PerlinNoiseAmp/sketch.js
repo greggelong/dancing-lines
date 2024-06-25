@@ -28,6 +28,7 @@ let zoff2= 2000;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  pixelDensity(1);
   background(0);
   angleMode(DEGREES);
 }
