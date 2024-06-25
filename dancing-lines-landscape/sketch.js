@@ -8,6 +8,7 @@ let start2 =10000;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  pixelDensity(1);
   background(0);
   angleMode(DEGREES);
 }
